@@ -10,7 +10,7 @@ import {
   setupIonicReact
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { ellipse, home, homeOutline, location, square, statsChart, triangle } from 'ionicons/icons';
+import { home, location, statsChart } from 'ionicons/icons';
 import Home from './pages/Home';
 import Locations from './pages/Locations';
 import SalesLedger from './pages/SalesLedger';
